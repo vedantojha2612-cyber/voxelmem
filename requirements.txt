@@ -1,0 +1,4 @@
+# VoxelMem Core Requirements
+# The core telemetry engine uses Python 3.10+ standard library (os, sys, re, math, socket, http.server, json, time, threading)
+# Optional dependencies for development, benchmarking, and CI:
+pytest>=7.0.0
